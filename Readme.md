@@ -10,4 +10,4 @@ Licensed under apache 2.0 license, see: http://www.apache.org/licenses/LICENSE-2
 
 For bugs and feature requests go to: http://community.miniprofiler.com
 
-test
+test2
